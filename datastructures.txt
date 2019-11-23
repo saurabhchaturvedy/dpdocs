@@ -1,0 +1,76 @@
+https://www.udemy.com/course/introduction-to-data-structures/learn/lecture/7260674#overview
+
+
+
+https://hackernoon.com/10-free-data-structure-and-algorithm-courses-junior-developers-should-explore-978b72871af5
+
+https://hackernoon.com/java-developers-learn-maven-jenkins-and-docker-using-these-free-courses-pnuc320j
+
+https://hackernoon.com/how-to-avoid-a-deadlock-while-writing-concurrent-programs-java-example-988bb07db25f
+https://wiki.web.att.com/display/MessageRouter/Publishing+and+Subscribing+using+HTTP+AAF
+https://wiki.web.att.com/display/MessageRouter/Message+Router+APIs
+https://wiki.web.att.com/display/MessageRouter/NONPROD-BOTHELL
+https://wiki.web.att.com/pages/viewpage.action?pageId=869435227
+https://wiki.web.att.com/display/MessageRouter/OnBoarding+MR+NON-PROD
+https://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp
+https://javasearch.buggybread.com/InterviewQuestions/questionSearch.php?searchOption=label&keyword=Mastercard
+
+Factorial.factorial(int) line: 8
+https://www.programcreek.com/simple-java/	
+
+https://medium.com/@rafacdelnero   Design Patterns Saga by Rafel
+
+https://youtube-playlist-analyzer.appspot.com/
+00
+10 01
+20 11 02
+
+30 21 12 03
+
+for(i = 2; i<row.length; i++)
+{
+for(j=0; j<i+1; j++)
+{
+  [1][0] [i-j]
+}
+}
+
+i=0 j=0
+i=1 j=0 i=0 j=1
+
+
+
+33
+23 32
+13 22 31
+
+
+for(int i=row.length-1 ; i>0 i--)
+{
+for(int j=1 j<=i )
+arr[i]
+}  [2][3] [j+1]   []
+
+level
+31 22 13
+32 23
+33
+
+
+31 22 13
+32 23 
+33
+
+
+31 32 
+
+10
+
+
+
+
+
+72,21,19,32,5,17
+
+
+
